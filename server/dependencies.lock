@@ -1,7 +1,7 @@
 {
     "annotationProcessor": {
         "org.springframework.boot:spring-boot-configuration-processor": {
-            "locked": "2.7.3"
+            "locked": "3.0.7"
         }
     },
     "compileClasspath": {
